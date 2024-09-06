@@ -29,7 +29,8 @@ font-family: "Raleway", sans-serif;}
 .contacts-link:focus,
 .nav-link:hover,
 .nav-link:focus,
-.order-button:hover, .order-button:focus {color: #404BBF;}
+.order-button:hover,
+.order-button:focus {color: #404BBF;}
 .hero {background-color:#2e2f42;}
 .hero-title {font-weight: 700;
     font-size: 56px;
@@ -37,6 +38,7 @@ font-family: "Raleway", sans-serif;}
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;}
+
 .order-button {font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -44,6 +46,7 @@ font-family: "Raleway", sans-serif;}
     color: #ffffff;
     background-color: #4d5ae5;
 cursor: pointer;}
+
     .feature-item-title {font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
