@@ -43,7 +43,8 @@ font-family: "Raleway", sans-serif;}
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #4d5ae5;}
+    background-color: #4d5ae5;
+cursor: pointer;}
 .order-button:hover,
 .order-button:focus {background-color:  #404BBF;
     }
@@ -70,6 +71,7 @@ font-family: "Raleway", sans-serif;}
     text-align: center;
     color: #2e2f42;
     text-align: center;
+    text-transform: capitalize;
 
 }
 
